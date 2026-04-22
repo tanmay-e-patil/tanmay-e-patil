@@ -14,9 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <img src="https://raw.githubusercontent.com/tanmay-e-patil/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-    <img src="https://raw.githubusercontent.com/tanmay-e-patil/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-    <img src="https://raw.githubusercontent.com/tanmay-e-patil/github-stats/master/generated/overview.svg#gh-light-mode-only" />
-    <img src="https://github.com/tanmay-e-patil/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-</div>
